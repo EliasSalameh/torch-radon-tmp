@@ -55,7 +55,7 @@ To use the GPU in docker you need to use [nvidia-docker](https://github.com/NVID
 ### Build from source
 You need to have [CUDA](https://developer.nvidia.com/cuda-toolkit) and [PyTorch](https://pytorch.org/get-started/locally/) installed, then run:
 ```shell script
-git clone https://github.com/matteo-ronchetti/torch-radon.git
+git clone [https://github.com/matteo-ronchetti/torch-radon.git](https://github.com/EliasSalameh/torch-radon-tmp.git)
 cd torch-radon
 python setup.py install
 ```
